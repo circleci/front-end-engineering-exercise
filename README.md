@@ -1,7 +1,7 @@
 # web-optimization-engineer-kata
 
 ## Description
-We are launching a new page. Please create this new page, leveraging web best practices, componentization. Feel free to use any framework that you are comfortable with or helps you to be the most productive. 
+We are launching a new page. Please create this new page leveraging web best practices. Feel free to use plain JS/html/css or any framework that you are comfortable with or helps you to be the most productive. 
 
 ## Requirements
 - Page must be responsive for desktop and smartphone.
