@@ -1,19 +1,17 @@
-# web-optimization-engineer-kata
+# Front-End Engineering Exercise
 
 ## Description
-We are launching a new page. Please create this new page leveraging web best practices. Feel free to use plain JS/html/css or any framework that you are comfortable with or helps you to be the most productive. 
+We are launching a new page. Please create this new page leveraging web best practices. Feel free to use plain JS/html/css or any framework that you are comfortable with or helps you to be the most productive.
 
 ## Requirements
 - Page must be responsive for desktop and smartphone.
 - Page should be optimized for SEO.
 - Page should be optimized for accessibility.
-- Page should be support translation. 
+- Page should be support translation.
   - When the visitor selects Japanese from the language selector, the CTA `Start Building for Free` should change to `無料でビルドを開始する`
 
 ## Designs
-[Desktop design](https://circleci.invisionapp.com/share/EQUQ779RG5P#/screens/392288798_eng-exercise-desktop)
-
-[Mobile design](https://circleci.invisionapp.com/share/SGUQ77HFV34#/screens/392288797_eng-exercise-mobile)
+[Designs in Figma](https://www.figma.com/file/Ms6vThgfjmwQcUsstSB7F0/Hiring-exercise-Front-End-Software-Engineer-Web?node-id=0%3A1)—includes mobile, tablet, and desktop layouts.
 
 ## Copy
 - **URL**: domain/landing-page/
@@ -30,12 +28,12 @@ We are launching a new page. Please create this new page leveraging web best pra
 
 
 ### Hero
-- **Header**: Nori grape silver beet broccoli kombu beet greens fava bean potato quandong celery 
+- **Header**: Nori grape silver beet broccoli kombu beet greens fava bean potato quandong celery
 - **Subhead**: Celery quandong swiss chard chicory earthnut pea potato. Salsify taro catsear garlic gram celery bitterleaf wattle seed collard greens nori.
 - **Hero image**: [image-testing.jpg](assets/image-testing.jpg)
 
 
-### Boxes 1-3 
+### Boxes 1-3
 - **Category**: Type of content
 - **Title**: Veggies es bonus vobis, proinde postulo essum magis kohlrabi
 - **Module image**: [image-CD.png](assets/image-CD.png)
@@ -45,8 +43,8 @@ We are launching a new page. Please create this new page leveraging web best pra
 
 ### Footer
 - **Logo**: [logo-cci.svg](assets/logo-cci.svg)
-- **Language selector options**: 
-  - English (US)   
+- **Language selector options**:
+  - English (US)
   - 日本語
 - **Text link #1**: Terms of Service
 - **Text link #2**: Privacy Policy
